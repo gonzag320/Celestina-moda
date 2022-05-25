@@ -133,7 +133,7 @@ var btnBuyCart = $("#buyCart")
 var buyContainer = $("#buy-container")
     
 btnBuyCart.click(function(event) {
-    location.href="cart.html"
+    location.href="../pages/cart.html"
 })
 
 $(document).ready(function(){
